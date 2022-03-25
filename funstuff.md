@@ -18,6 +18,9 @@ self evident: are the brits at it again?
 https://www.decisionproblem.com/paperclips/index2.html
 great way to time travel by one day (or several)
 
+https://www.flaggenerator.com/
+flaggenerator
+
 **Funny Words**
 
 ismism
