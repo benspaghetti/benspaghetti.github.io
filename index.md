@@ -1,20 +1,32 @@
-Hello there!
+[Hello there!](https://forms.gle/Q4YL968DFDL4qjkKA)
 
-# About Me
+Links: [Fun Stuff](funstuff.md) [Essays (read: rants)](rants.md)
+
+## What I'm Doing
+
+Studying for HKDSE, STEP and MAT
+
+**Reading**
+
+Maths books (I don't really have the ability to read any of these lol): \
+Linear Algebra by Hoffman and Kunze \
+Principles of Mathematical Analysis by Rudin \
+Contemporary Abstract Algebra by Gallian \
+
+**Normal books**
+
+None at the moment unfortunately
+
+## About Me
 
 **My favourite**
 
-text editor is Vim
-
-word is [perchance](https://www.youtube.com/watch?v=SOceYlhCwjs)
-
-song is [L'internationale](https://www.youtube.com/watch?v=doEqUhFiQS4)
-
-colour is #196883
-
-browser is Firefox
-
-search engine is DuckDuckGo \(the past tense is DuckDuckWent\)
+text editor is Vim \
+word is [perchance](https://www.youtube.com/watch?v=SOceYlhCwjs) \
+song is [L'internationale](https://www.youtube.com/watch?v=doEqUhFiQS4) \
+colour is #196883 \
+browser is Firefox \
+search engine is DuckDuckGo \(the past tense is DuckDuckWent\) \
 
 **Miscellaneous Important Facts**
 
@@ -25,10 +37,3 @@ I don't know what I'm talking about.
 **Miscellaneous Unimportant Facts**
 
 I'm Ben.
-
-# Fun Stuff
-
-**Cool Sentences**
-Math is really a haystack with some needles, and since we use magnets, we cannot find the hay. - redditor [r/Moebius2](https://www.reddit.com/user/Moebius2/)
-
-There is much here that is new and true, but what is true is not new, and what is new is not true; and some of it is even old and false, or at least utterly unsupported. - apparently an old saying, at least according to [this](http://bactra.org/reviews/wolfram/)
