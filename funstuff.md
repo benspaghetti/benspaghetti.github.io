@@ -10,6 +10,10 @@
 
 \- apparently an old saying, at least according to [this](http://bactra.org/reviews/wolfram/)
 
+> A high 5\*\* is the same as a low 5\*\* (not like I can get a 5\*\*).
+
+\- Me
+
 **Fun websites**
 
 https://arethebritsatitagain.org/

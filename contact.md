@@ -1,2 +1,3 @@
-Contact me via: \
-email (remove the spaces, replace the words with arabic numerals, replace the words 'at' and 'dot' with the symbol): b en one eight one nine three nine at gm ail dot com
+# Contact me
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe9ag8_F5EM3d_3ra2lnenUMb-98gLUZpa8a1slH67xoGPJ0A/viewform?embedded=true" width="640" height="542" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

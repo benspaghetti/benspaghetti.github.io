@@ -1,6 +1,6 @@
 [Hello there!](https://forms.gle/rLq6zYiEszEpamM1A)
 
-Links: [Fun Stuff](funstuff.md), [Essays (read: rants)](rants.md), [LSC](lsc.md), [Contact me](contact.md)
+Links: [Fun Stuff](funstuff.md), [Articles (read: rants)](rants.md), [LSC](lsc.md), [Contact me](contact.md)
 
 ## What I'm Doing
 
