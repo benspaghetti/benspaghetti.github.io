@@ -1,8 +1,8 @@
 [Hello there!](https://forms.gle/rLq6zYiEszEpamM1A)
 
-Links: [Fun Stuff](funstuff.md), [Articles (read: rants)](rants.md), [LSC](lsc/lsc.md), [Contact me](contact.md)
+Links: [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC](lsc/lsc.md), [Contact me](contact.md)
 
-**Scroll down for comment section**
+**Scroll down to comment**
 
 ## What I'm Doing
 
@@ -21,9 +21,11 @@ None at the moment unfortunately
 
 ## Internet Archaeology
 (not the journal)
-I am proposing the study of internet archaeology. The Internet is large place, containing more information than we could ever find. For 
+I am proposing the study of internet archaeology. The Internet is large place, containing more information than we could ever find. I am especially interested in the location of rare and old files on the internet. 
 
-My proudest find is a pre-Grothendieck algebraic geometry textbook. You may take a look [here](https://drive.google.com/file/d/14mK90E8XDn2F4dEvfJ56SLfwxevUg8HZ/view?usp=sharing). I hope internet police do not take down this website lol.
+The below file is scanned from Imperial College London's library. Indeed, this file is accessible to many, and I am sure many libraries in London or the UK in general contains this book. Yet the UK is only home to under 68 million people. It would not be possible for people in other places in varying social and financial positions to easily access such a file. (so in fact internet archaeology is just a fancier way of saying internet browsing lmao)
+
+My proudest find is a pre-Grothendieck algebraic geometry textbook. You may take a look [here](https://drive.google.com/file/d/14mK90E8XDn2F4dEvfJ56SLfwxevUg8HZ/view?usp=sharing). I hope internet police do not take down this website :).
 
 [Read more](iarchaeology.md)
 ## About Me
@@ -47,6 +49,6 @@ I don't know what I'm talking about.
 
 I'm Ben.
 
-# Comments
+## Comments
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxMzzfwzf84lu7ZHSR9hCMumedqljlQ8aVD6Md2kWzJo4mdw/viewform?embedded=true" width="640" height="542" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
