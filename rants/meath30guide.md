@@ -30,18 +30,20 @@ Some countries, particularly England, may choose to influence you, giving you so
 
 ## Independence
 
-The events for England is vital to your independence. 
+The events for England are vital to your independence. 
 
 ### Surrender of Maine
 
-
+The Surrender of Maine is a good opportunity to get England to land on France.
 
 ### War of the Roses 
 
-For the peace deal, I highly recommend taking land from England in Wales and Cornwall
+### Peace
+
+For the peace deal, I highly recommend taking land from England in Wales and Cornwall.
 
 ## After independence
 
 Hopefully you have some claims on Ireland now. Using the war reparations you have, your economy will be fine for a few years. Hire some mercenaries and conquer Ireland and Scotland. You may choose to start conquring in mainland Europe, particularly in Brittany if you can make claims on it.
 
-## AFter
+## After
