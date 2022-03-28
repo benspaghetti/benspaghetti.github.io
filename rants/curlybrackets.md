@@ -1,6 +1,6 @@
 # How to draw curly brackets (braces)?
-(skip to the end for actual tips) \
-This is one of the most troubling problems of students. Some are unable to write the left nor the right curly brackets, some are capable of writing only the left one, with the right one being an asymmetrical monstrosity. Only a select few, chosen by God to have gifts bestowed on them, can draw both properly. I have not met such a person either online, or in real life.
+**(skip to the end for actual tips)** \
+This is one of the most troubling problems for students. Shme are unable to write the left nor the right curly brackets, some are capable of writing only the left one, with the right one being an asymmetrical monstrosity. Only a select few, chosen by God to have gifts bestowed on them, can draw both properly. I have not met such a person either online, or in real life.
 
 There are different ways to writing them. Some proposed to simply practice writing them, eventually one should be able to draw immaculate copies of these extraordinary symbols. Some offered a way of thinking about them, like writing and 'S' then a horizontally inverted 'S' and vice versa. These methods often provides an acceptable, but a cruder, more pronounced version of these elegant symbols.
 

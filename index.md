@@ -38,9 +38,9 @@ song is [*L'Internationale*](https://www.youtube.com/watch?v=doEqUhFiQS4) \
 colour is *#196883* \
 browser is *Firefox* \
 search engine is *DuckDuckGo* \(the past tense is DuckDuckWent\)
-candy is *Andes mint chocolate*
-type of stationery is a *compass*
-Star Wars character is *the Youngling (you know which one)*
+candy is *Andes mint chocolate* \
+type of stationery is a *compass* \
+Star Wars character is *the Youngling (you know which one)* \
 
 **Miscellaneous Important (not) Facts**
 
