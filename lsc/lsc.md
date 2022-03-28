@@ -18,7 +18,7 @@ Using colours #542883, #B194000 and #D6241F [picked](https://imagecolorpicker.co
 
 ![](lscrotatedtricolour.png)
 
-### We are a catholic school
+### This is a catholic school
 
 ![](lscnordic.png)
 
