@@ -15,9 +15,13 @@ Linear Algebra by Hoffman and Kunze \
 Principles of Mathematical Analysis by Rudin \
 Contemporary Abstract Algebra by Gallian 
 
-**Normal books**
-
+Normal books \
 None at the moment unfortunately
+
+**Watching**
+
+Michael Penn's Abstract Linear Algebra lectures: (https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk)[https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk] \
+For some reason, some videos are missing from this playlist as of the time of writing.
 
 ## Internet Archaeology
 (not the journal) \
@@ -40,7 +44,7 @@ browser is *Firefox* \
 search engine is *DuckDuckGo* \(the past tense is DuckDuckWent\)
 candy is *Andes mint chocolate* \
 type of stationery is a *compass* \
-Star Wars character is *the Youngling (you know which one)* \
+Star Wars character is *the Youngling (you know which one)* 
 
 **Miscellaneous Important (not) Facts**
 
@@ -51,6 +55,10 @@ I don't know what I'm talking about.
 **Miscellaneous Unimportant Facts** (not important either)
 
 I'm Ben.
+
+## Some goals that I will never achieve
+1. Actually pay some attention to schoolwork. My DSE grades aren't even gonna be up to CUHK Maths standards if you continue ignoring Core, Physics and Chemistry lmao.
+2. Get 1, 1 in STEP (worst case is probably 1, 2, good (not best) case is probably S, 1, currently I'm (1.25, 2) lol)
 
 ## Comments
 

@@ -28,3 +28,9 @@ flaggenerator
 **Funny Words**
 
 ismism
+
+**Cool Songs**
+
+**Cool Videos**
+
+LeninRoll: (https://www.youtube.com/watch?v=02vx2usBzpE)[https://www.youtube.com/watch?v=02vx2usBzpE]
