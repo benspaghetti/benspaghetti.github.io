@@ -15,6 +15,6 @@ The Polish capital, often a level 1 fort and exposed without any fort blocking t
 ## 5. Ceuta
 One of the African provinces in the Sevilla trade node. Is a centre of trade, can be added to trade company by Western European nations. Has a fort, is disadvantaged terrain. Has a cool shape too :)
 ## 6. Alexandria
-Very nice fort location. I have killed many Mamluk troops there. Brings back the memorises of playing as Spain.
+Very nice fort location. I have killed many Mamluk troops there. Brings back the memories of playing as Spain.
 ## 7. Diu
 I will offer no explanation.
