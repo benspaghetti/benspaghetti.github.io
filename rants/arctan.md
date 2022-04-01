@@ -27,7 +27,7 @@ The proof is left as an exercise to the reader or you may consult these links on
 
 Do note that 
 \\[\tan\left(\arctan a +\arctan b\right) = \frac{a+b}{1-ab}\\]
-works for all $a, b$ though.
+works for all \\(a, b\\) though.
 
 Naturally, we may repeat this with similar functions and produce the following results:
 
