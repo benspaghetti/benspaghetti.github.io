@@ -12,7 +12,7 @@ Studying for HKDSE, STEP and MAT
 
 Maths books (I don't really have the ability to read any of these lol, probably won't change for a long time): \
 Linear Algebra by Hoffman and Kunze \
-Principles of Mathematical Analysis by Rudin \
+Principles of Mathematical Analysis by Rudin 
 
 Update (2022/03/30): I have abandoned Gallian's Contemporary Abstract Algebra as I wish to gain a proper understanding of algebraic structures after learning some category theory. I plan on using Aluffi's Algebra: Chapter 0 instead. However, I have not the time to study category theory alongside my other plans and responsibilities. Therefore, I do not expect to study algebra until after DSE. Read more about my plans [here](rant/mathsdseplan.md).
 
@@ -63,7 +63,8 @@ I'm Ben.
 
 ## Some goals that I will never achieve
 1. Actually pay some attention to schoolwork. My DSE grades aren't even gonna be up to CUHK Maths standards if I continue ignoring Core, Physics and Chemistry lmao.
-2. Get 1, 1 in STEP (worst case is probably 1, 2, good (not best) case is probably S, 1, currently I'm 1.25, 2 lol)
+2. Get 1, 1 in STEP (worst case is probably 1, 2, good case is probably S, 1, currently I'm 1.25, 2 lol)
+3. Read less MSE/Reddit/Zhihu and do more maths
 
 ## Comments
 
