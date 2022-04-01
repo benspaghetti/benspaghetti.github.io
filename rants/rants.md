@@ -8,7 +8,7 @@ nothing of substance really, because when i write something its either too trash
 [Why am I taking STEP?](whystep.md)
 
 ## Information and tutorials (excluding EU4)
-[A neat trick with inverse trigonometric functions](arctan.md)
+[A neat trick with inverse trigonometric functions](arctan.md) \
 [MSPaint on ArchLinux](mspaint.md) \
 [How to draw curly brackets/braces](curlybrackets.md)
 
