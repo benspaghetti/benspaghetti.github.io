@@ -4,7 +4,7 @@
 </script>
 </head>
 
-[\\[\neg test\\]](google.com)
+[$$\neg test$$](google.com)
 
 # A neat trick with inverse trigonometric functions
 published 2022/04/01
