@@ -4,6 +4,8 @@
 </script>
 </head>
 
+[\\[\neg test\\]](google.com)
+
 # A neat trick with inverse trigonometric functions
 published 2022/04/01
 
@@ -16,7 +18,7 @@ So I was practicing STEP while my brain was malfunctioning (at this point it mig
 ## The 'Trick'
 Suppose I want to simplify \\(\arctan a + \arctan b\\), for \\(a, b\\) in the domain, one should consider \\(\tan(\arctan a + \arctan b)\\) and apply the compound angle formula. We obtain
 \\[\arctan a + \arctan b = \arctan \left( \frac{a + b}{1-ab} \right).\\]
-Unfortunately, this suffers from problems of the range of $ab$. The above formula works only for \\(ab<1\\) due to signs and periods and stuff. For \\(ab > 1\\), we have the following cases:
+Unfortunately, this suffers from problems of the range of \\(ab\\). The above formula works only for \\(ab<1\\) due to signs and periods and stuff. For \\(ab > 1\\), we have the following cases:
 
 For \\(a,b>0\\), we have 
 \\[ \arctan a + \arctan b = \pi + \arctan\left(\frac{a+b}{1-ab}\right) + \pi \\]
