@@ -6,7 +6,7 @@ Links: [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC]
 
 ## What I'm Doing
 
-Studying for HKDSE, STEP and MAT
+Studying for HKDSE, STEP and MAT, and being an all-round hokmultiverse.
 
 **Reading**
 
