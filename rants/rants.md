@@ -13,6 +13,7 @@ nothing of substance really, because when i write something its either too trash
 [How to draw curly brackets/braces](curlybrackets.md)
 
 ## Actual low effort rants
+[Fantaisie Bourguignonne](bourgogne.md)
 ## EU4
 [My Favourite EU4 Provinces (Incomplete)](favouriteeu4province.md) \
 [EU4 Meath 1.30.6 Guide](meath30guide.md)
