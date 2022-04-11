@@ -1,7 +1,8 @@
 # Articles
 
 nothing of substance really, because when i write something its either too trash or too private sad :\(
-
+## Pinned
+[Horrifying realisations](horror.md)
 ## Expository writings
 ## Personal
 [Trying to strike a balance between examinations and maths learning](mathsdseplan.md) \
