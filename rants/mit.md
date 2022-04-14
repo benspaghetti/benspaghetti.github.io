@@ -10,5 +10,5 @@ Last updated on 2022-04-14
 6. Since they hand out the vegetarian options first, you can receive a second meal this way
 7. Kick the seat in front of you while inclining and uninclining your seats randomly
 8. Get off the flight. You are now in the Logan International Airport in Boston.
-9. Consult Google Maps for how to get to MIT
+9. Consult Google Maps and get to MIT
 10. Congratulations, you are now in MIT!
