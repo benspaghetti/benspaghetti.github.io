@@ -5,6 +5,7 @@
 </head>
 
 # A neat trick with inverse trigonometric functions
+[..](..)\
 published 2022/04/01
 
 Disclaimer: no, this is not an April Fool's joke.

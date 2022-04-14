@@ -18,6 +18,6 @@ nothing of substance really, because when i write something its either too trash
 [How to go to MIT as a Hong Kong Student in 10 Easy Steps](mit.md) \
 [Fantaisie Bourguignonne](bourgogne.md)
 ## EU4
-[Grabbing EU4 DLCs From the High Seas](pirateeu4.md)\
+[EU4 Cornwall 1.30.6 Guide](pirateeu4.md)\
 [My Favourite EU4 Provinces (Incomplete)](favouriteeu4province.md) \
 [EU4 Meath 1.30.6 Guide](meath30guide.md)
