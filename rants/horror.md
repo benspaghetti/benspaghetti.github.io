@@ -1,5 +1,5 @@
-# Horrifying Realisations
-This is a constantly updating article, documenting some horrifying realisations/shower thoughts I had.
+# Shower thoughts
+This is a constantly updating article, documenting some shower thoughts I had.
 
 ## Death
 I'm 16, 17 this year. Hong Kong's life expectancy is 85.16 years. With my obesity, I'll probably die before that. So over a fifth of my life has passed already. I have done nothing. I am afraid of death, I truly am. I am now convinced that immortality is a curse, for without the looming end, there is nothing pushing me to actually do stuff.

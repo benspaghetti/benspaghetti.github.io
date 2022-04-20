@@ -1,5 +1,4 @@
 # How to go to MIT as a Hong Kong Student in 10 Easy Steps
-[..](..)\
 Published on 2022-04-14 \
 Last updated on 2022-04-14
 
