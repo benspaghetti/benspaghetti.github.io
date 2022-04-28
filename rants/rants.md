@@ -2,7 +2,8 @@
 
 nothing of substance really, because when i write something its either too trash or too private sad :\(
 ## Updating
-[Horrifying realisations](horror.md)
+[Stuff](horror.md) \
+[Maths resources and stuff](maths.md) 
 ## Expository writings
 [Homographic function and matrices (Incomplete)](homographic_matrices.md) \
 [A neat trick with inverse trigonometric functions](arctan.md) 
