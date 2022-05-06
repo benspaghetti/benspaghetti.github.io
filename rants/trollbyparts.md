@@ -1,3 +1,8 @@
+<head>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+</head>
 # Troll Integration By Parts
 
 Have you ever wondered what happens if you let \\(u = c\\) for a constant \\(c\\)? Isn't \\(du\\) just 0? Here is a way to comprehend it dont laugh at me idk analysis.
