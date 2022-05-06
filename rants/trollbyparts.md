@@ -3,7 +3,9 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 </head>
+
 # Troll Integration By Parts
+published 2022-05-06
 
 Have you ever wondered what happens if you let \\(u = c\\) for a constant \\(c\\)? Isn't \\(du\\) just 0? Here is a way to comprehend it dont laugh at me idk analysis.
 
