@@ -10,7 +10,7 @@ Have you ever wondered what happens if you let \\(u = c\\) for a constant \\(c\\
 Consider
 \\[\int f(x) \ dx.\\]
 
-Let \\(u\\) be a constant and \\(dv = f(x) \ dx \\) and \\(F(x)\\).So we have
+Let \\(u\\) be a constant and \\(dv = f(x) \ dx \\) and \\(F(x)\\) be the primitive function of \\( f(x) \\).So we have
 
 \begin{align}
 
