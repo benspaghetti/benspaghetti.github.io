@@ -5,12 +5,12 @@ nothing of substance really, because when i write something its either too trash
 [Stuff](horror.md) \
 [Maths resources and stuff](maths.md) 
 ## Expository writings
-[Troll integration by parts](trollbyparts.md)
+[Troll integration by parts](trollbyparts.md) \
 [Homographic function and matrices (Incomplete)](homographic_matrices.md) \
 [A neat trick with inverse trigonometric functions](arctan.md) 
 ## Personal
 [Trying to strike a balance between examinations and maths learning](mathsdseplan.md) \
-[Why am I taking STEP?](whystep.md)
+[Why do I take STEP (Update: and other stuff concerning Oxbridge admissions)](whystep.md)
 
 ## Information and tutorials (excluding EU4 and maths)
 [MSPaint on ArchLinux](mspaint.md) \

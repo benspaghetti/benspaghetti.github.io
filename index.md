@@ -3,7 +3,7 @@
 ### Note: 
 to the guy who provided the correct response, please put your response again in the contact form, you will get nothing.
 
-Links: [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC](lsc/lsc.md), [Contact me](https://benspaghetti.github.io/contact.html)
+Pages: [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC](lsc/lsc.md), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.md)
 
 **Scroll down to comment**
 
