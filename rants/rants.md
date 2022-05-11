@@ -3,7 +3,8 @@
 nothing of substance really, because when i write something its either too trash or too private sad :\(
 ## Updating
 [Stuff](horror.md) \
-[Maths resources and stuff](maths.md) 
+[Maths resources and stuff](maths.md) \
+[The Adventures of Ben Dover](bendover/master.md) 
 ## Expository writings
 [Troll integration by parts](trollbyparts.md) \
 [Homographic function and matrices (Incomplete)](homographic_matrices.md) \
