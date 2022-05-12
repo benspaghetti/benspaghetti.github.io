@@ -1,6 +1,11 @@
 # Stuff
 This is a constantly updating article, documenting some stuff.
 
+## On lying flat
+I will not continue lying flat anymore. Perhaps I will do that when I am more independent, but right now, it is an irresponsible move. It is unfair to those who put effort in me and care about me, nor is it fair to those affected by my work. Of course I can lie flat if I ask them to stop caring, and detach myself from communities, but I am too much of a coward to do that, as I have always been
+
+2022-05-11
+
 ## Wikipedia pirate tutorial
 Yeah, definitely just a series on 'file sharing'.
 
