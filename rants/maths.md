@@ -28,6 +28,8 @@ MIR Titles for Soviet books translated to English \
 
 [Cauclimorphism](https://www.youtube.com/channel/UCCo1hxxOUVXhsNBc4uq5x3g) for hopefully some better videos in the future, not saying that the current ones are bad
 
+[ML Luk](https://www.youtube.com/channel/UC4FN4gstaeCTh8gWcVR_GdQ) for some videos on brief extensions to the HKDSE curriculum
+
 ## Software
 [WolframAlpha](https://www.wolframalpha.com/)
 
