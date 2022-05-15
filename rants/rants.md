@@ -1,14 +1,16 @@
 # Articles
 
-nothing of substance really, because when i write something its either too trash or too private sad :\(
 ## Updating
 [Stuff](horror.md) \
 [Maths resources and stuff](maths.md) \
 [The Adventures of Ben Dover](bendover/master.md) 
+
 ## Expository writings
+[Series in STEP (Incomplete)](stepseries.md) \
 [Troll integration by parts](trollbyparts.md) \
 [Homographic function and matrices (Incomplete)](homographic_matrices.md) \
 [A neat trick with inverse trigonometric functions](arctan.md) 
+
 ## Personal
 [Trying to strike a balance between examinations and maths learning](mathsdseplan.md) \
 [Why do I take STEP (Update: and other stuff concerning Oxbridge admissions)](whystep.md)
