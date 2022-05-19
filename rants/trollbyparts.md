@@ -12,15 +12,15 @@ Have you ever wondered what happens if you let \\(u = c\\) for a constant \\(c\\
 Consider
 \\[\int f(x) \ dx.\\]
 
-Let \\(u\\) be a constant and \\(dv = f(x) \ dx \\) and \\(F(x)\\) be the primitive function of \\( f(x) \\). So we have
+Let \\(u\\) be a constant and \\(dv = f(x) \ dx \\) and \\(F(x)\\) be a primitive function of \\( f(x) \\). So we have
 
 \\[
     \int f(x) dx = u^{-1}\int  u \ dv  \\
     = u^{-1} \left( uv - \int v \ du \right) \\
-    = v - 0 = F(x).
+    = v - 0 = F(x) + C.
 \\]
 
 Notice also that
-\\[\int f(x) dx = \int dv = v = F(x).\\]
+\\[\int f(x) dx = \int dv = v = F(x) + C.\\]
 
 So basically you did nothing. :)
