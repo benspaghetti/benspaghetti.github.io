@@ -6,4 +6,5 @@ It is now 10 minutes before his oral exam. He chooses to
 
 [A. Eat broccoli](broccoli.md) \
 [B. Drink water](water.md) \
-[C. Not attend because Princeton is better](princeton.md)
+[C. Not attend because Princeton is better](princeton.md) \
+[D. Sit in front of his computer](normalien.md)

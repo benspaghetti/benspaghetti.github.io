@@ -12,6 +12,9 @@
 [Homographic function and matrices (Incomplete)](homographic_matrices.md) \
 [A neat trick with inverse trigonometric functions](arctan.md) 
 
+## Just Stuff
+[The Thing](thing.md)
+
 ## Personal
 [Trying to strike a balance between examinations and maths learning](mathsdseplan.md) \
 [Why do I take STEP (Update: and other stuff concerning Oxbridge admissions)](whystep.md)
