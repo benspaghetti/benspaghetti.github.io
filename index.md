@@ -65,7 +65,7 @@ I'm Ben.
 
 ## Some goals that I will never achieve
 1. Actually pay some attention to schoolwork. My DSE grades aren't even gonna be up to CUHK Maths standards if I continue ignoring Core, Physics and Chemistry lmao.
-2. Get 1, 1 in STEP (worst case is probably 1, 2, good case is probably S, 1, currently I'm 1.25, 2 lol)
+2. Get 1, 1 in STEP (13 june predict 2, 2)
 3. Read less MSE/Reddit/Zhihu and do more maths
 
 ## Comments
