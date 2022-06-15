@@ -3,7 +3,7 @@
 ### Note: 
 to the guy who provided the correct response, please put your response again in the contact form, you will get nothing.
 
-Pages: [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC](lsc/lsc.md), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.md) [Afsism](afsism/afsism.md)
+Pages: [Ben Dover](dover.md), [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC](lsc/lsc.md), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.md), [Afsism](afsism/afsism.md)
 
 **Scroll down to comment**
 
