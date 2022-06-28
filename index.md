@@ -8,6 +8,7 @@ Pages: [Ben Dover](dover.md), [Fun Stuff](funstuff.md), [Articles (read: rants)]
 Studying for HKDSE and MAT
 
 **Organising**
+
 [LSE Seminar of Maths and Physics](lse.md)
 
 **Reading**

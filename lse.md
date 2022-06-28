@@ -9,6 +9,6 @@ Max Ng
 
 ## Tentative Schedule
 
-| Date | Time | Speaker | Title | Location |
+| Date | Time | Speaker | Topic | Location |
 | --- | --- | --- | --- | --- |
-| 2022-07-21 | 1500 | Ben Zhang | Opening Ceremony | |
+| 2022-07-21 | 1500 | Ben Zhang | Opening Ceremony | TBA |
