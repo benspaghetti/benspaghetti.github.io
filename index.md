@@ -1,15 +1,14 @@
 [Hello there!](https://forms.gle/rLq6zYiEszEpamM1A)
 
-### Note: 
-to the guy who provided the correct response, please put your response again in the contact form, you will get nothing.
-
-Pages: [Ben Dover](dover.md), [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC](lsc/lsc.md), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.md), [Afsism](afsism/afsism.md)
-
+Pages: [Ben Dover](dover.md), [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC](lsc/lsc.md), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.md)
 **Scroll down to comment**
 
 ## What I'm Doing
 
-Studying for HKDSE, STEP and MAT
+Studying for HKDSE and MAT
+
+**Organising**
+[LSE Seminar of Maths and Physics](lse.md)
 
 **Reading**
 
@@ -19,12 +18,7 @@ Principles of Mathematical Analysis by Rudin \
 Algebra: Chapter 0 by Aluffi
 
 Normal books \
-None at the moment unfortunately
-
-**Watching**
-
-Michael Penn's Abstract Linear Algebra lectures: [https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk)](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk)\
-For some reason, some videos are missing from this playlist as of the time of writing.
+Think by Simon Blackburn
 
 **Wikipedia Browsing**
 
@@ -62,11 +56,6 @@ I don't know what I'm talking about.
 **Miscellaneous Unimportant Facts** (not important either)
 
 I'm Ben.
-
-## Some goals that I will never achieve
-1. Actually pay some attention to schoolwork. My DSE grades aren't even gonna be up to CUHK Maths standards if I continue ignoring Core, Physics and Chemistry lmao.
-2. Get 1, 1 in STEP (13 june predict 2, 2)
-3. Read less MSE/Reddit/Zhihu and do more maths
 
 ## Comments
 
