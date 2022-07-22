@@ -14,8 +14,10 @@ Lap Kiu Fan (La Salle College)
 
 | Date | Time (UTC+8) | Speaker | Topic | Location |
 | --- | --- | --- | --- | --- |
-| 2022-07-22 | 1500 | Ben Zhang | Opening Ceremony | TBA |
-| 2022-07-25 <br> - <br> 2022-07-29| 0300 | TBC | IHÉS Summer School on Langlands Program | Zoom/IHÉS |
+| 2022-07-22 | 1500 | Ben Zhang | Opening Ceremony | Zoom |
+| 2022-07-25 <br> - <br> 2022-07-29| 0300 | TBC | IHÉS Summer School on Langlands Program | Zoom/IHÉS(1) |
+
+(1): Just watch the videos on YouTube later im not going to stream at 3am lmao
 
 ## Application for Participation
 

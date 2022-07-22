@@ -2,5 +2,5 @@ Ben chose his favourite Perrier bubbled water for this important occasion. He to
 
 No more chance at ENS and Dover was stricken by grief. Over the next few weeks, he spoke no unnecessary words, it is apparent that he was deep in grief. On Good Friday, he gazed below and sees the dark, college grounds. He took off, yet he was no bird. With a thump, the once gallant star diminished. He
 
-[A. Was buried by his family](notjesus.md)
+[A. Was buried by his family](notjesus.md)\
 [B. Rose 3 days later](jesusbrother.md)
