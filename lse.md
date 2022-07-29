@@ -1,5 +1,6 @@
 # Séminaire de École La Salle en Mathématiques et Physique 
 2022-07-22 to 08-31
+
 ## Tentative Speakers
 in no particular order
 
@@ -16,9 +17,14 @@ Lap Kiu Fan (La Salle College)
 | --- | --- | --- | --- | --- |
 | 2022-07-22 | 1500 | Ben Zhang | Opening Ceremony | Zoom |
 | 2022-07-25 <br> - <br> 2022-07-29| 0300 | TBC | IHÉS Summer School on Langlands Program | Zoom/IHÉS(1) |
+|2022-07-27 | 1500 | Eaton Liu | Discussion with Eaton Liu| Google Meet |
 
 (1): Just watch the videos on YouTube later im not going to stream at 3am lmao
 
-## Application for Participation
+## Forms
 
+### Availability
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3ouvCB8tyJW98yRv0ro18UOFUaDcqZYkHUsjBk9ay12rrNQ/viewform?embedded=true" width="640" height="375" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+### Application
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeUiQhe205uzkNu_a4trZonie7O__IfWGYX3Wcx1SwePFy7Gg/viewform?embedded=true" width="640" height="768" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
