@@ -13,6 +13,7 @@ Lap Kiu Fan (La Salle College)
 
 ## Tentative Schedule
 Indicate your availability here: [https://forms.gle/iEwAaZqHUvbe9RLu9](https://forms.gle/iEwAaZqHUvbe9RLu9)
+
 | Date | Time (UTC+8) | Speaker | Topic | Location |
 | --- | --- | --- | --- | --- |
 | 2022-07-22 | 1500 | Ben Zhang | Opening Ceremony | Zoom |
