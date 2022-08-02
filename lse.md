@@ -19,7 +19,7 @@ Indicate your availability here: [https://forms.gle/iEwAaZqHUvbe9RLu9](https://f
 | 2022-07-22 | 1500 | Ben Zhang | Opening Ceremony | Zoom |
 | 2022-07-25 <br> - <br> 2022-07-29| 0300 | TBC | IHÉS Summer School on Langlands Program | Zoom/IHÉS(1) |
 | 2022-07-27 | 1500 | Eaton Liu | Googology 1/2 | Google Meet |
-| 2022-08-02 | 1400 | Eaton Liu | Googology 2/2 | Google Meet
+| 2022-08-02 | 1600 | Eaton Liu | Googology 2/2 | Google Meet
 
 (1): Just watch the videos on YouTube later im not going to stream at 3am lmao
 
