@@ -13,7 +13,8 @@
 [A neat trick with inverse trigonometric functions](arctan.md) 
 
 ## Just Stuff
-[The Thing](thing.md)
+[The Thing](thing.md) \
+[JUPAS Exploit ???? (ILLEGAL) (GONE WRONG)](retardjupas.md)
 
 ## Personal
 [Trying to strike a balance between examinations and maths learning](mathsdseplan.md) \
