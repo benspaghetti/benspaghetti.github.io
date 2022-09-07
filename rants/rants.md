@@ -6,13 +6,14 @@
 [The Adventures of Ben Dover](bendover/master.md) 
 
 ## Expository writings
-[That Recurring STEP Problem](recurringstep.md)
+[That Recurring STEP Problem](recurringstep.md) \
 [Series in STEP (Incomplete)](stepseries.md) \
 [Troll integration by parts](trollbyparts.md) \
 [Homographic function and matrices (Incomplete)](homographic_matrices.md) \
 [A neat trick with inverse trigonometric functions](arctan.md) 
 
 ## Just Stuff
+[Oxford Updates Grade Requirements](oxfordbruh.md) \
 [The Thing](thing.md) \
 [JUPAS Exploit ???? (ILLEGAL) (GONE WRONG)](retardjupas.md)
 
