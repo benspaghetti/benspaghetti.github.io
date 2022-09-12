@@ -1,9 +1,10 @@
 # Séminaire en Mathématiques 
 2022-07-22 to Unconfirmed
 
-## Speakers
+## Participants
 in no particular order
 
+Donald Chui (Tonbridge School)
 Ron Shum (La Salle College) \
 James Cheung (Baptist Lui Ming Choi Secondary School) \
 Eaton Liu (La Salle College) \
