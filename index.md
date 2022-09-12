@@ -10,7 +10,7 @@ Studying for HKDSE and MAT
 
 **Organising**
 
-[LSE Seminar of Maths and Physics](lse.md)
+[Seminars in Mathematics](lse.md)
 
 **Reading**
 
