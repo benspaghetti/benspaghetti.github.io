@@ -8,6 +8,9 @@ Pages: [Ben Dover](dover.md), [Fun Stuff](funstuff.md), [Articles (read: rants)]
 
 Studying for HKDSE and MAT
 
+**Making**
+A series of worksheets on curve sketching. Click [here](https://www.overleaf.com/read/kbtnmnbhcvnb) to view.
+
 **Organising**
 
 [Seminars in Mathematics](lse.md)
