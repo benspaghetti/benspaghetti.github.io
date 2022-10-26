@@ -3,7 +3,8 @@
 ## Updating
 [Stuff](horror.md) \
 [Maths resources and stuff](maths.md) \
-[The Adventures of Ben Dover](bendover/master.md) 
+[The Adventures of Ben Dover](bendover/master.md) \
+[University Application Status](uniapp.md)
 
 ## Expository writings
 [That Recurring STEP Problem](recurringstep.md) \
