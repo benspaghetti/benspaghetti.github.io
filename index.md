@@ -6,7 +6,7 @@ Pages: [Ben Dover](dover.md), [Fun Stuff](funstuff.md), [Articles (read: rants)]
 
 ## What I'm Doing
 
-Studying for HKDSE and MAT
+Studying for HKDSE and MAT(cancelled now wt)
 
 **Making**
 A series of worksheets on curve sketching. Click [here](https://www.overleaf.com/read/kbtnmnbhcvnb) to view.

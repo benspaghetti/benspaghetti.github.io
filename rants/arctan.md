@@ -12,7 +12,7 @@ Disclaimer: no, this is not an April Fool's joke.
 
 Update 2022-04-28: Michael Penn just did a video on solving a differential equation with a similar technique, go check it out [here](https://www.youtube.com/watch?v=ZE4jPfJyZAI).
 
-## Bullshit, don't read
+## Bullcrap, don't read
 
 So I was practicing STEP while my brain was malfunctioning (at this point it might be the norm, so I guess functioning as normal?) and struggled to combine 2 arctangent expressions. Being the pussy I am, I checked the hints and wondered why I have never come across this before.
 

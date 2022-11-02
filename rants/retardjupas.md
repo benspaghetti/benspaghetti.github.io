@@ -7,7 +7,7 @@ published 20220809
 
 ## Theory
 
-CUHK Science sounds very multiverse right OOOHH SCIENCE, but it is quite easy to get into even with shitty grades. Refer to the image below:
+CUHK Science sounds very multiverse right OOOHH SCIENCE, but it is quite easy to get into even with trash grades. Refer to the image below:
 
 ![possible?](https://cdn.discordapp.com/attachments/895286470611464293/1006478451047411732/unknown.png)
 

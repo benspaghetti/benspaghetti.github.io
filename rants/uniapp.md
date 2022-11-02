@@ -3,8 +3,8 @@
 ## Current Situation
 
 **UCAS** \
-Oxford: yet to take MAT \
-Imperial: yet to take MAT \
+Oxford: no MAT now wt \
+Imperial: no MAT now wt \
 Warwick: offer \
 Bristol: offer \
 UCL: no status
@@ -17,6 +17,7 @@ Toronto: sent out application
 
 ## Timeline
 
+2022-11-02 MAT cancelled, no MAT now wt \
 2022-10-28 Imperial Acknowledgment (finally!) \
 2022-10-27 Merton Acknowledgment \
 2022-10-26 Applied Toronto \
