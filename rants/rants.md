@@ -5,7 +5,8 @@
 [Maths resources and stuff](maths.md) \
 [The Adventures of Ben Dover](bendover/master.md) \
 [University Application Status](uniapp.md)\
-[SPEEEEEEEEEEEEED](sped.md)
+[SPEEEEEEEEEEEEED](sped.md)\
+[Current Project on Collatz Conjecture](collatz.md)
 
 ## Expository writings
 [That Recurring STEP Problem](recurringstep.md) \

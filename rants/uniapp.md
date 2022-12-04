@@ -17,6 +17,7 @@ Toronto: sent out application
 
 ## Timeline
 
+2022-12-03 Took IELTS for UofT
 2022-11-02 MAT cancelled, no MAT now wt \
 2022-10-28 Imperial Acknowledgment (finally!) \
 2022-10-27 Merton Acknowledgment \
