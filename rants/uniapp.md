@@ -3,7 +3,7 @@
 ## Current Situation
 
 **UCAS** \
-Oxford: no MAT now wt \
+Oxford: no MAT now wt (turns out they just reject me)\
 Imperial: no MAT now wt \
 Warwick: offer \
 Bristol: offer \
@@ -17,6 +17,7 @@ Toronto: sent out application
 
 ## Timeline
 
+2022-12-06 Oxford Rejection
 2022-12-03 Took IELTS for UofT
 2022-11-02 MAT cancelled, no MAT now wt \
 2022-10-28 Imperial Acknowledgment (finally!) \

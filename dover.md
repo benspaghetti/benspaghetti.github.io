@@ -1,6 +1,6 @@
 # Ben Dover
 
-I manage the embedment of Ben Dover into reality.
+I manage the embedding of Ben Dover into reality.
 
 ## The Story
 
