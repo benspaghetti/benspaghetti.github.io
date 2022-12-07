@@ -9,6 +9,7 @@
 [Current Project on Collatz Conjecture](collatz.md)
 
 ## Expository writings
+[Translating with Matrices](mattrans.md)\
 [That Recurring STEP Problem](recurringstep.md) \
 [Series in STEP (Incomplete)](stepseries.md) \
 [Troll integration by parts](trollbyparts.md) \
