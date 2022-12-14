@@ -17,6 +17,7 @@ Toronto: sent out application
 
 ## Timeline
 
+2022-12-14 Submitted all documents to UofT\
 2022-12-06 Oxford Rejection \
 2022-12-03 Took IELTS for UofT \
 2022-11-02 MAT cancelled, no MAT now wt \

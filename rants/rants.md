@@ -23,7 +23,6 @@
 
 ## Personal
 [Trying to strike a balance between examinations and maths learning](mathsdseplan.md) \
-[Why do I take STEP (Update: and other stuff concerning Oxbridge admissions)](whystep.md)
 
 ## Information and tutorials (excluding EU4 and maths)
 [MSPaint on ArchLinux](mspaint.md) \
