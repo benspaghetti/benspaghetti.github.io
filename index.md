@@ -6,9 +6,9 @@ Pages: [Ben Dover](dover.md), [Fun Stuff](funstuff.md), [Articles (read: rants)]
 
 ## What I'm Doing
 
-Studying for HKDSE and MAT(cancelled now wt)
+Studying for HKDSE.
 
-**Making**
+**Making**\
 A series of worksheets on curve sketching. Click [here](https://www.overleaf.com/read/kbtnmnbhcvnb) to view.
 
 **Organising**
@@ -19,11 +19,10 @@ A series of worksheets on curve sketching. Click [here](https://www.overleaf.com
 
 Maths books (I don't really have the ability to read any of these lol, probably won't change for a long time): \
 Linear Algebra by Hoffman and Kunze \
-Principles of Mathematical Analysis by Rudin \
-Algebra: Chapter 0 by Aluffi
+Principles of Mathematical Analysis by Rudin
 
 Normal books \
-Think by Simon Blackburn
+???
 
 **Wikipedia Browsing**
 

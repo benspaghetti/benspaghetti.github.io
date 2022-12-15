@@ -17,12 +17,14 @@
 [A neat trick with inverse trigonometric functions](arctan.md) 
 
 ## Just Stuff
+[Origin of the Theory of Measure](measure.md) \
 [Oxford Updates Grade Requirements](oxfordbruh.md) \
 [The Thing](thing.md) \
 [JUPAS Exploit ???? (ILLEGAL) (GONE WRONG)](retardjupas.md)
 
 ## Personal
-[Trying to strike a balance between examinations and maths learning](mathsdseplan.md) \
+[Hoarder Culture in Mathematics Learning](mathshoarding.md) \
+[Trying to strike a balance between examinations and maths learning](mathsdseplan.md) 
 
 ## Information and tutorials (excluding EU4 and maths)
 [MSPaint on ArchLinux](mspaint.md) \
