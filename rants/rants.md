@@ -17,6 +17,7 @@
 [A neat trick with inverse trigonometric functions](arctan.md) 
 
 ## Just Stuff
+[Origin of the Theory of Measure (Family Friendly Version)](measureff.md)\
 [Origin of the Theory of Measure](measure.md) \
 [Oxford Updates Grade Requirements](oxfordbruh.md) \
 [The Thing](thing.md) \
