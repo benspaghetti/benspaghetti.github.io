@@ -1,6 +1,6 @@
 [Hello there!](https://forms.gle/rLq6zYiEszEpamM1A)
 
-Pages: [Ben Dover](dover.html), [Fun Stuff](funstuff.html), [Articles (read: rants)](rants/rants.html), [LSC](lsc/lsc.html), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.html)
+Pages: [Ben Dover](core/dover.html), [Fun Stuff](core/funstuff.html), [Articles (read: rants)](core/articles.html), [LSC](lsc/lsc.html), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.html)
 
 **Scroll down to comment**
 
@@ -11,7 +11,7 @@ Studying for HKDSE.
 **Making**\
 A series of worksheets on curve sketching. Click [here](https://www.overleaf.com/read/kbtnmnbhcvnb) to view.
 
-**Organising**
+**Organising**  
 
 [Seminars in Mathematics](lse.html)
 
