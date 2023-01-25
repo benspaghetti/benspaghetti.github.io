@@ -1,40 +1,60 @@
 # Articles
 
-## Updating
-[Stuff](horror.md) \
-[Maths resources and stuff](maths.md) \
-[The Adventures of Ben Dover](bendover/master.md) \
-[University Application Status](uniapp.md)\
-[SPEEEEEEEEEEEEED](sped.md)\
-[Current Project on Collatz Conjecture](collatz.md)
+## New and Updates!
 
-## Expository writings
-[Translating with Matrices](mattrans.md)\
-[That Recurring STEP Problem](recurringstep.md) \
-[Series in STEP (Incomplete)](stepseries.md) \
-[Troll integration by parts](trollbyparts.md) \
-[Homographic function and matrices (Incomplete)](homographic_matrices.md) \
-[A neat trick with inverse trigonometric functions](arctan.md) 
+[A neat trick with inverse trigonometric functions](../articles/maths/arctan.html) \
 
-## Just Stuff
-[Origin of the Theory of Measure (Family Friendly Version)](measureff.md)\
-[Origin of the Theory of Measure](measure.md) \
-[Oxford Updates Grade Requirements](oxfordbruh.md) \
-[The Thing](thing.md) \
-[JUPAS Exploit ???? (ILLEGAL) (GONE WRONG)](retardjupas.md)
+## The Adventures of Ben Dover
+
+[Choose your own adventure!](../articles/bendover/master.html)
+
+## Maths
+
+[Translation with Matrices](../articles/maths/mattrans.html) \
+[A neat trick with inverse trigonometric functions](../articles/maths/arctan.html) \
+[Current Progress on Collatz](../articles/maths/collatz.html) \
+[Maths resources and stuff](../articles/maths/maths.html) \
+[Origin of the Theory of Measure (Family Friendly Version)](../articles/maths/measureff.html) \
+[That Recurring STEP Problem](../articles/maths/recurringstep.html) \
+[Steffen ImPerfect](../articles/maths/steffenimperfect.html) \
+[Series in STEP](../articles/maths/stepseries.html) \
+[Troll Integration By Parts](../articles/maths/trollbyparts.html) \
+[Homographic Functions and Matrices](../articles/maths/homographic_matrices.html) 
+
+## Education
+
+[University Application Status Update
+](../articles/education/uniapp.html) \
+[Oxford Adjusted Its HKDSE Entry Requirements](../articles/education/oxfordbruh.html) \
+[Possible JUPAS / Life Exploit?](../articles/education/retardjupas.html) 
+
+## Games
+
+[These are my favourite EU4 provinces
+](../articles/games/favouriteeu4province.html) \
+[EU4 Meath 1.30.6 Guide
+](../articles/games/meath30guide.html) \
+[Sail the High Seas in EU4
+](../articles/games/pirateeu4.html) 
 
 ## Personal
-[Hoarder Culture in Mathematics Learning](mathshoarding.md) \
-[Trying to strike a balance between examinations and maths learning](mathsdseplan.md) 
 
-## Information and tutorials (excluding EU4 and maths)
-[MSPaint on ArchLinux](mspaint.md) \
-[How to draw curly brackets/braces](curlybrackets.md)
+[Trying to strike a balance between examinations and maths learning
+](../articles/personal/mathdseplan.html) \
+[Hoarder Culture in Mathematics Learning
+](../articles/personal/mathshoarding.html) \
+[SPEEEEEEEEEEEEED
+](../articles/personal/sped.html) 
 
-## Actual low effort rants
-[How to go to MIT as a Hong Kong Student in 10 Easy Steps](mit.md) \
-[Fantaisie Bourguignonne](bourgogne.md)
-## EU4
-[EU4 Cornwall 1.30.6 Guide](pirateeu4.md)\
-[My Favourite EU4 Provinces (Incomplete)](favouriteeu4province.md) \
-[EU4 Meath 1.30.6 Guide](meath30guide.md)
+## Stuff
+
+[How to draw curly brackets (braces)?
+](../articles/stuff/curlybrackets.html) \
+[How to go to MIT as a Hong Kong Student in 10 Easy Steps
+](../articles/stuff/mit.html) \
+[MS Paint on ArchLinux
+](../articles/stuff/mspaint.html) \
+[Thing
+](../articles/stuff/thing.html) 
+
+## Miscellaneous
