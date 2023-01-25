@@ -22,7 +22,7 @@ Linear Algebra by Hoffman and Kunze \
 Principles of Mathematical Analysis by Rudin
 
 Normal books \
-???
+Man's Search for Meaning by Viktor Frankl 
 
 **Wikipedia Browsing**
 

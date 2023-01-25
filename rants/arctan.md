@@ -10,6 +10,8 @@ published 2022-04-01
 
 Disclaimer: no, this is not an April Fool's joke.
 
+Update 2023-01-25: So I first encountered this in a STEP problem [00-S2-Q4 on STEP Database](https://stepdatabase.maths.org/database/index.html#). Today I found something that is relevant and it's [Machin's formula and its generalisations](https://en.wikipedia.org/wiki/Machin-like_formula).
+
 Update 2022-04-28: Michael Penn just did a video on solving a differential equation with a similar technique, go check it out [here](https://www.youtube.com/watch?v=ZE4jPfJyZAI).
 
 ## Bullcrap, don't read
