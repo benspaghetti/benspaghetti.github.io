@@ -1,6 +1,6 @@
 [Hello there!](https://forms.gle/rLq6zYiEszEpamM1A)
 
-Pages: [Ben Dover](dover.md), [Fun Stuff](funstuff.md), [Articles (read: rants)](rants/rants.md), [LSC](lsc/lsc.md), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.md)
+Pages: [Ben Dover](dover.html), [Fun Stuff](funstuff.html), [Articles (read: rants)](rants/rants.html), [LSC](lsc/lsc.html), [Contact me](https://benspaghetti.github.io/contact.html), [Vexillology](vex/vex.html)
 
 **Scroll down to comment**
 
@@ -13,7 +13,7 @@ A series of worksheets on curve sketching. Click [here](https://www.overleaf.com
 
 **Organising**
 
-[Seminars in Mathematics](lse.md)
+[Seminars in Mathematics](lse.html)
 
 **Reading**
 
@@ -26,7 +26,7 @@ Man's Search for Meaning by Viktor Frankl
 
 **Wikipedia Browsing**
 
-I like to browse Wikipedia in my spare time and tend to focus on a single topic for some time. I am currently investigating the history of Ireland and her relationship with her neighbours. Read more about my Wikipedia browsing [here](wiki/wiki.md).
+I like to browse Wikipedia in my spare time and tend to focus on a single topic for some time. I am currently investigating the history of Ireland and her relationship with her neighbours. Read more about my Wikipedia browsing [here](wiki/wiki.html).
 
 ## Internet Archaeology
 (not the journal) \
@@ -36,7 +36,7 @@ My proudest find is a pre-Grothendieck algebraic geometry textbook. You may take
 
 The above file is scanned from Imperial College London's library. Indeed, this file is accessible to many, and I am sure many libraries in London or the UK in general contains this book. Yet the UK is only home to under 68 million people. It would not be possible for people in other places in varying social and financial positions to easily access such a file. (so in fact internet archaeology is just a fancier way of saying internet browsing and in some cases pirating lmao)
 
-[Read more](iarch/iarch.md)
+[Read more](iarch/iarch.html)
 ## About Me
 
 **My favourite**
@@ -63,4 +63,4 @@ I'm Ben.
 
 ## Comments
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxMzzfwzf84lu7ZHSR9hCMumedqljlQ8aVD6Md2kWzJo4mdw/viewform?embedded=true" width="640" height="542" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxMzzfwzf84lu7ZHSR9hCMumedqljlQ8aVD6html2kWzJo4htmlw/viewform?embedded=true" width="640" height="542" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

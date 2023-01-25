@@ -1,3 +1,0 @@
-# Steffen ImPerfect
-
-coming soon
