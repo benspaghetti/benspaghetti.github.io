@@ -158,6 +158,9 @@
       vertical-align: middle;
     }
   </style>
+  <script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -170,8 +173,7 @@
 </head>
 <h1 id="a-neat-trick-with-inverse-trigonometric-functions">A neat trick
 with inverse trigonometric functions</h1>
-<p><a href="..">..</a><br />
-published 2022-04-01</p>
+<p>published 2022-04-01</p>
 <p>Disclaimer: no, this is not an April Fool’s joke.</p>
 <p>Update 2023-01-25: So I first encountered this in a STEP problem <a
 href="https://stepdatabase.maths.org/database/index.html#">00-S2-Q4 on
@@ -188,25 +190,38 @@ struggled to combine 2 arctangent expressions. Being the pussy I am, I
 checked the hints and wondered why I have never come across this
 before.</p>
 <h2 id="the-trick">The ‘Trick’</h2>
-<p>Suppose I want to simplify \(a + b\), for \(a, b\) in the domain, one
-should consider \((a + b)\) and apply the compound angle formula. We
-obtain \[a + b = ( ).\] Unfortunately, this suffers from problems of the
-range of \(ab\). The above formula works only for \(ab&lt;1\) due to
-signs and periods and stuff. For \(ab &gt; 1\), we have the following
-cases:</p>
-<p>For \(a,b&gt;0\), we have \[ a + b = () + \]</p>
-<p>For \(a,b&lt;0\), we have \[ a + b = () - \] The proof is left as an
-exercise to the reader or you may consult these links on
+<p>Suppose I want to simplify <span class="math inline">\(\arctan a +
+\arctan b\)</span>, for <span class="math inline">\(a, b\)</span> in the
+domain, one should consider <span class="math inline">\(\tan(\arctan a +
+\arctan b)\)</span> and apply the compound angle formula. We obtain
+<span class="math display">\[\arctan a + \arctan b = \arctan \left(
+\frac{a + b}{1-ab} \right).\]</span> Unfortunately, this suffers from
+problems of the range of <span class="math inline">\(ab\)</span>. The
+above formula works only for <span
+class="math inline">\(ab&lt;1\)</span> due to signs and periods and
+stuff. For <span class="math inline">\(ab &gt; 1\)</span>, we have the
+following cases:</p>
+<p>For <span class="math inline">\(a,b&gt;0\)</span>, we have <span
+class="math display">\[ \arctan a + \arctan b =
+\arctan\left(\frac{a+b}{1-ab}\right) + \pi \]</span></p>
+<p>For <span class="math inline">\(a,b&lt;0\)</span>, we have <span
+class="math display">\[ \arctan a + \arctan b =
+\arctan\left(\frac{a+b}{1-ab}\right) - \pi \]</span> The proof is left
+as an exercise to the reader or you may consult these links on
 MathStackExchange, which explain things much clearer than I do: <a
 href="https://math.stackexchange.com/questions/1724348/what-is-arctanx-arctany">https://math.stackexchange.com/questions/1724348/what-is-arctanx-arctany</a>,
 and <a
 href="https://math.stackexchange.com/questions/326334/a-question-about-the-arctangent-addition-formula">https://math.stackexchange.com/questions/326334/a-question-about-the-arctangent-addition-formula</a>.</p>
-<p>Do note that \[(a +b) = \] works for all \(a, b\) though.</p>
+<p>Do note that <span class="math display">\[\tan\left(\arctan a
++\arctan b\right) = \frac{a+b}{1-ab}\]</span> works for all <span
+class="math inline">\(a, b\)</span> though.</p>
 <p>Naturally, we may repeat this with similar functions and produce the
 following results:</p>
-<p>\[ (a + b) = a + b a, b \]</p>
-<p>\[ (a + b) = ab + a, b \] Similar results may be derived for other
-trigonometric functions.</p>
+<p><span class="math display">\[ \sin(\arcsin a + \arcsin b) =
+a\sqrt{1-b^2} + b\sqrt{1-a^2} \text{ for } a, b \in [-1,1]\]</span></p>
+<p><span class="math display">\[ \sin(\arcsin a + \arccos b) = ab +
+\sqrt{(1-a^2)(1-b^2)} \text{ for } a, b \in [-1,1]\]</span> Similar
+results may be derived for other trigonometric functions.</p>
 <p>We now turn our attention to hyperbolic trigonometric functions.
 Actually, no, we are not going to do that since that is just
 logarithms.</p>
