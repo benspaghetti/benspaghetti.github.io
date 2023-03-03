@@ -1,6 +1,8 @@
 ---
-title: "Origin of the Theory of Measure (Family Friendly Version)"
+layout: post
+title: Origin of the Theory of Measure (Family Friendly Version)
 date: 2022-12-29
+categories: mathematics
 ---
 
 Once upon a time there was an Amazonian tribe with an interesting tradition. Every person plant cucumbers and each year they would measure the length of their longest cucumber. The person with the longest cucumber will be named the Cucum Superior. They use a hand-me-down measuring stick that has endured over many generations. They would describe the length of cucumbers in terms of the length of the rod. For example, Alice has a cucumber of length 3 times that rod, while Bob has a cucumber of length one tenth of that rod. The tribe simply calls it 'the Rod'.
