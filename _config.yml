@@ -22,22 +22,17 @@ title: Hopefully Lost
 email: ben181939@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   personal website for stuff
-domain: benspaghetti.github.io
 baseurl: /benspaghetti.github.io/
+domain: benspaghetti.github.io
 url: https://benspaghetti.github.io
 twitter_username: 
 github_username:
 
 # Build settings
 
-# theme: minima
-# plugins:
-#   - jekyll-feed
-
-remote_theme: pages-themes/architect@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme
-- jekyll-feed
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
