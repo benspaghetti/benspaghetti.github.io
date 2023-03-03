@@ -28,7 +28,7 @@ twitter_username:
 github_username:  benspaghetti
 
 # Build settings
-theme: architect
+theme: Architect
 plugins:
   - jekyll-feed
 
