@@ -8,6 +8,6 @@ Ben woke up. His eyes shot open, and landed on ... nothing. It was a complete da
 
 Cold air swept by Ben's pale face, he woke up again. This time, he can see a grey ceiling with lights and several people carrying him with a large wooden box - a coffin! Ben blinked, a single tear rolling down his face. He suicided, his family must have been very upset. He felt disgusted by his inability to consider his parents and those close to him. "Am I a ghost?" Ben wondered as he attempted to move his arm. Clunk! His knuckles hit the wooden box around him. The party paused. "What was that?" "Oh, probably just the dripping water pipe, asshole boss too poorjar to repair it." Ben
 
-[A. did not let a single breath out during this exchange](glorytodover.md)
+[A. did not let a single breath out during this exchange](glorytodover.md) \
 [B. coughed due to his desert of a throat](testsubject.md)
 
