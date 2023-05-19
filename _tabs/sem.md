@@ -2,7 +2,7 @@
 order: 6
 title: Séminaire en Mathématiques 
 ---
-2022-07-22 to Unconfirmed
+2022-07-22 to 2022-08-11
 
 ## Participants
 in no particular order
