@@ -1,1 +1,0 @@
-Haha, Dover another suicide guy, dumbass.
