@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+
 The coffin continued to reach its destination: the morgue. Now lying in the refrigerated room, he contemplated his next step. No, he cannot lay there and get buried, there is too much to be done. ENS? Let that be a passing thought. He shivered, and coughed slightly from the stench of rotting corpses, careful not to cause too much disturbance. 
 
 'Yeah?', some faraway voice woke Ben up from his slumber. It was just past dawn. 

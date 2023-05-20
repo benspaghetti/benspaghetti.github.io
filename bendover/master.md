@@ -7,6 +7,6 @@ This is Ben Dover, a 16 year-old boy from Hong Kong, originally Taiwan, studying
 
 Mr Dover is in his final stretches of this marathon for a place at a good university. He thinks that he has a great bright future in front of him regardless of where he goes. He goes to
 
-[A. Camford](camford.md) \
-[B. HKU](hku.md)\
-[C. Rickrial](rickrial.md)
+[A. Camford](/bendover/camford.html) \
+[B. HKU](/bendover/hku.html)\
+[C. Rickrial](/bendover/rickrial.html)

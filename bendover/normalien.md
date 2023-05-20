@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+
 Mr Dover performed well in the competition, but was he good enough? He now waits for an answer. My dear reader, I think, it is more respectful to Mr. Dover, and clearer for our storytelling, to portray the results day as below.
 
 Here is an extract from Ben's blog.

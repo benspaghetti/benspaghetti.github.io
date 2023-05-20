@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+
 "Ding!"
 
 Ben's peculiar email ringtone awoke him from his trance of elation. He looked down. By golly! This is email is just like the one a few minutes before. Both of them were sent by Princeton and had the word Princeton in them. Alpha Centauri-sized sweat beaded on Ben's forehead as he realised his grave misteak. Ben screamed internally but was not able to utter a single word.
@@ -16,5 +21,5 @@ He quickly rejoined the meeting, ruffled his hair and turned to the screen. The 
 
 The Frenchie thought for a while, and said
 
-[A. Fine whatever, those guys constantly wanting to ruin your life can be annoying.](saved.md)
-[B. Lmao, are you taking me for a fool? Go to your Princeton and have a good day](screwedup.md)
+[A. Fine whatever, those guys constantly wanting to ruin your life can be annoying.](saved.html)
+[B. Lmao, are you taking me for a fool? Go to your Princeton and have a good day](screwedup.html)

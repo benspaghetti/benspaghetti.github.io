@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+
 'Alright, lets start. Can you explain to me the Cox-Zucker Machine and its purpose?'
 
 And so Ben Dover had another opportunity at entering the ENS.
