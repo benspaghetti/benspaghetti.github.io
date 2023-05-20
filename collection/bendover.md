@@ -1,7 +1,7 @@
 ---
-order: 3
+layout: page
 title: Ben Dover
 ---
 
 # The Adventures of Ben Dover - Choose Your Own Story
-[Enter the story](master.html)
+[Enter the story](/bendover/master.html)

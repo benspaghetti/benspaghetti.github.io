@@ -1,5 +1,5 @@
 ---
-order: 5
+layout: page
 title: Séminaire en Mathématiques 
 ---
 2022-07-22 to 2022-08-11
