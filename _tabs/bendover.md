@@ -4,4 +4,4 @@ title: Ben Dover
 ---
 
 # The Adventures of Ben Dover - Choose Your Own Story
-[Enter the story](/story/)
+[Enter the story](master.html)

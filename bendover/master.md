@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /story/
 ---
 
 This is Ben Dover, a 16 year-old boy from Hong Kong, originally Taiwan, studying in DBC. He is interested in mathematics and has thought about doing a mathematics degree every since Form 2. He aims to get into Camford mathematics and become one of the greatest students of his year. He also likes the idea of going to HKU if he fails.
