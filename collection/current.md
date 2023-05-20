@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Currently ...
-order: 2
 ---
 
 ## reading:
