@@ -8,6 +8,10 @@ order: 5
 
 [Click](/collection/current.md)
 
+## Favourites and Recommendations
+
+[Click](/collection/favsandrecs.md)
+
 ## Ben Dover
 
 [Click](/collection/bendover.html)
