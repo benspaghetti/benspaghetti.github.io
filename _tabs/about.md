@@ -13,4 +13,12 @@ Poorjar at Poorjar Institute of Poorjarnomy
 Chirpy is an excellent Jekyll theme, idk why it's not more known.
 There are frequent pop ups, must be some problem with my site settings.
 
-Click on More Pages in the sidebar for, well, more pages. Ben Dover and SEM was migrated there.
+Click on More Pages in the sidebar for, well, more pages. Ben Dover and SEM were migrated there.
+
+### Comments
+
+To comment, you have to sign in with a Github account.
+
+If you wish to do this anonymously, you can use the following set of credentials: \
+Username/Email: comment@peasantmaths.com \
+Password: peasant1525
