@@ -18,15 +18,15 @@ timezone: Asia/Hong_Kong
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Hopefully Lost # the main title
+title: Peasant Maths # the main title
 
 tagline: Daily reminder to drink more water # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  stuff
+  Daily reminder to drink more water
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://blog.hopefully-lost.com/"
+url: "https://www.hopefully-lost.com/"
 
 github:
   username: benspaghetti # change to your github username
@@ -86,7 +86,7 @@ avatar: "/assets/img/avatar.jpg"
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -96,12 +96,12 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: benspaghetti/benspaghetti.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOHDsnFQ
+    category: Announcements
+    category_id: DIC_kwDOHDsnFc4CWnh0
     mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
+    input_position: top # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
