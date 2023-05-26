@@ -6,11 +6,15 @@ order: 5
 
 ## Currently...
 
-[Click](/collection/current.md)
+[Click](/collection/current.html)
+
+## Maths Thoughts
+
+[Click](/collection/thoughts.html)
 
 ## Favourites and Recommendations
 
-[Click](/collection/favsandrecs.md)
+[Click](/collection/favsandrecs.html)
 
 ## Ben Dover
 
