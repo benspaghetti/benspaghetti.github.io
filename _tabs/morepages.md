@@ -20,6 +20,9 @@ order: 5
 
 [Click](/collection/bendover.html)
 
+## Skribbl.io
+[Click](/collection/skribblio.html)
+
 ## Compilations
 
 There are many excellent blogs with posts that people put a lot of effort in, but they rarely get seen. This is a compilation of these posts. Includes other stuff too.

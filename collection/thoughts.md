@@ -4,9 +4,15 @@ title: Maths Thoughts
 math: true
 ---
 
+newer thoughts updated on [my Tumblr page](https://www.tumblr.com/peasantmaths)
+
+2023-05-28
+
+I thought uniform continuity is some strongAF shit, turns out its just continuity at every point.
+
 2023-05-27
 
-Somehow I used to vaguely think Cauchy completeness and L.U.B. property are equivalent???
+Somehow I used to vaguely think Cauchy completeness and L.U.B. property are equivalent for a general metric space???
 
 2023-05-26
 
