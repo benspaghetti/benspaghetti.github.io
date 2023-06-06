@@ -1,12 +1,45 @@
 ---
 layout: page
-title: Favourites & Recommendations
+title: Favourites, Recommendations & Influences
 ---
+
+Decide for yourself which is which, some are pretty obvious, some are surprising. 
 
 ## Jekyll Theme
 Chirpy, duh.
 
-If you want a less powerful theme, I find minima (the default theme) to be sufficient
+If you want a less powerful theme, I find minima (the default theme) to be sufficient.
+
+## Podcasts
+
+The Anthropocene Reviewed by John Green - also a book!
+
+The Unmade Podcast by Brady Haran and Tim Hein
+
+My Favourite Theorem by Kevin Knudson & Evelyn Lamb
+
+## Novels
+
+I don't read.
+
+The Inheritance Cycle by Christopher Paolini
+
+Paper Towns by John Green
+
+Les Misérables by Victor Hugo (also see [Music](#music))
+
+## Music
+
+Les Misérables by Alain Boublil & Claude-Michel Schönberg (not the movie)
+
+## Wheat products???
+
+Garlic bread
+
+EDO Almond Cracker
+
+Hansel Premium New York-style Cheddar Cheese Cream-Filled Biscuits \
+the naming is lamentable, it's the one in the black box
 
 ## Chocolate
 
