@@ -5,7 +5,7 @@ title: Cream Soda
 categories: stuff
 ---
 
-The Cream Soda is perhaps among the most bizarre and perplexing human inventions. I have only tasted that green-and-yellow canned one by Schweppes but I would suspect my experiences collide with drinkers of other brands and variations too.
+The Cream Soda is perhaps among the most bizarre and perplexing human inventions. I have only tasted that green-and-yellow canned one by Schweppes but I would suspect my experiences coincide with drinkers of other brands and variations too.
 
 Cream is smooth, soda pops. They are like bouba and kiki, oil and water. I might read more on the invention of cream soda later but, for now, bear with me on what mistaken impression I fully flesh out below. 
 
