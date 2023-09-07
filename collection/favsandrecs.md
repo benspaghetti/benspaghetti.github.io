@@ -18,7 +18,7 @@ The Unmade Podcast by Brady Haran and Tim Hein
 
 My Favourite Theorem by Kevin Knudson & Evelyn Lamb
 
-## Novels
+## Books
 
 I don't read.
 
@@ -27,6 +27,8 @@ The Inheritance Cycle by Christopher Paolini
 Paper Towns by John Green
 
 Les Misérables by Victor Hugo (also see [Music](#music))
+
+Stone Soup
 
 ## Music
 
