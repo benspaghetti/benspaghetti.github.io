@@ -5,13 +5,13 @@ title: Currently ...
 
 ## reading:
 
-Linear Algebra by Hoffman & Kunze
+Algebra: Notes from the Underground by Paolo Aluffi
 
 Real Mathematical Analysis by Charles Chapman Pugh
 
-Man's Search for Meaning by Viktor Frankl
+Probability and Random Processes by Grimmett and Strizaker
 
-Algebra: Chapter 0 by Paolo Aluffi
+Man's Search for Meaning by Viktor Frankl
 
 ## listening:
 

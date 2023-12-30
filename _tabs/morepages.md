@@ -8,10 +8,6 @@ order: 5
 
 [Click](/collection/current.html)
 
-## Maths Thoughts
-
-[Click](/collection/thoughts.html)
-
 ## Favourites and Recommendations
 
 [Click](/collection/favsandrecs.html)
