@@ -8,3 +8,5 @@ Mr Dover unfortunately was not able to take his entrance test MEP due to volcano
 Ben raged. This is an insult to him and he vowed to destroy the admission tutors who threw out his application. There was one such Dr Sean Hardi who recently won the Coal Prize. Ben thought he must have just not cared and instead wanted to go on vacation so he didn't bother arranging a make up test. 
 
 So Ben Dover went to Rickrial.
+
+It was the first lecture, on linear algebra. 

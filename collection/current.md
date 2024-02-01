@@ -11,8 +11,12 @@ Real Mathematical Analysis by Charles Chapman Pugh
 
 Probability and Random Processes by Grimmett and Strizaker
 
-Man's Search for Meaning by Viktor Frankl
+Percolation by Grimmett
 
 ## listening:
 
 The Unmade Podcast by Brady Haran and Tim Hein
+
+Lex Fridman Podcast by Lex Fridman
+
+My Favourite Theorem by Kevin Knudson & Evelyn Lamb
