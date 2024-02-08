@@ -10,8 +10,7 @@ Poorjar at Poorjar Institute of Poorjarnomy
 
 ## How to Use this Site
 
-Chirpy is an excellent Jekyll theme, idk why it's not more known.
-There are frequent pop ups, must be some problem with my site settings.
+Chirpy is an excellent Jekyll theme, idk why it's not more known. Sometimes you need to click the pop-up for the site to update.
 
 Click on More Pages in the sidebar for, well, more pages. Ben Dover and SEM were migrated there.
 
