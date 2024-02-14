@@ -8,6 +8,10 @@ order: 5
 
 [Click](/collection/current.html)
 
+## Resources 
+
+[Click](/collection/resources.html)
+
 ## Favourites and Recommendations
 
 [Click](/collection/favsandrecs.html)

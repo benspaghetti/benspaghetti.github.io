@@ -48,3 +48,8 @@ the naming is lamentable, it's the one in the black box
 85% or 90% Cocoa chocolate, any higher it just becomes really dry and tasteless. You need the fat to carry the flavour I think.
 
 For something sweet, I love Andes mint chocalate.
+
+## Purchases
+
+1. bluetooth earbuds
+2. smart stylus for iPad
