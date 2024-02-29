@@ -10,7 +10,7 @@ order: 5
 
 ## Resources 
 
-[Click](/collection/resources.html)
+[Click](https://www.peasantmaths.com/resources)
 
 ## Favourites and Recommendations
 
