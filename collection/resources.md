@@ -6,7 +6,7 @@ permalink: /resources/
 
 A list of (not necessarily) lesser-known maths resources, maybe recommended, maybe not, in no particular order. Feel free to procrastinate from more important work by exploring the links as I have done through the years, which led to the failure I am now.
 
-## Notes / Courseware
+## Notes / Courseware / Wikis
 
 [Napkin - Evan Chen, MIT](https://web.evanchen.cc/napkin.html)
 
@@ -26,6 +26,8 @@ A list of (not necessarily) lesser-known maths resources, maybe recommended, may
 
 [StatLect](https://www.statlect.com/)
 
+[nLab](https://ncatlab.org/nlab/show/HomePage)
+
 ## Books
 
 [Linearity, Symmetry, and Prediction in the Hydrogen Atom - Stephanie Frank Singer](https://link.springer.com/book/10.1007/b136359)
@@ -42,7 +44,7 @@ A list of (not necessarily) lesser-known maths resources, maybe recommended, may
 
 [Probability Theory, I, II, III - Todd Kemp, UCSD](https://www.youtube.com/@toddkemp-probability/playlists)
 
-## Outstanding Channels
+## Outstanding YouTube Channels
 
 [VisualMath - Daniel Tubbenhauer, Sydney](https://www.youtube.com/@VisualMath/videos)
 
@@ -52,7 +54,7 @@ A list of (not necessarily) lesser-known maths resources, maybe recommended, may
 
 [Richard E. Borcherds, Berkeley](https://www.youtube.com/@richarde.borcherds7998)
 
-## Channels
+## YouTube Channels
 
 [ThatMathThing - Joel A. Rosenfeld, South Florida](https://www.youtube.com/@JoelRosenfeld)
 
@@ -150,3 +152,7 @@ Including summer schools, online schools, etc.
 [Fields Undergraduate Summer Research Program](http://www.fields.utoronto.ca/generalinfo/Fields-Undergraduate-Summer-Research-Program)
 
 [PCMI Undergraduate Summer School](https://www.ias.edu/pcmi)
+
+## [Subject] Through Problems
+
+[UChicago Inquiry-Based Learning (IBL) Scripts ](https://math.uchicago.edu/~boller/IBL/)

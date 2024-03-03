@@ -3,7 +3,7 @@ layout: page
 title: Skribbl.io for Maths
 ---
 
-Training to become a geometer? Well Skribbl.io might be the game for you. 
+Training to become a geometer? Love visual thinking? Well Skribbl.io might be the game for you. 
 
 ## Rules
 british spelling \
@@ -12,7 +12,14 @@ all singular, unless requires plural (isomorphic, homeomorphic, etc.) \
 \- replaced by space \
 \' gets deleted \
 no using maths symbols \
-drawing relevant to maths preferred 
+no using letters \
+drawing relevant to maths slightly preferred 
+
+## MATH3131 Groups
+
+as spelled in the lecture notes
+
+group, associativity, identity, inverse, abelian, order, cyclic group, symmetry group, automorphism group, category, morphism, homomorphism, isomorphism, subgroup, dihedral group, lagrange theorem, coset, index, group action, orbit, transitive, stabilizer, faithful, representation, platonic solid, quaternion, normal subgroup, kernel, quotient, alternating group, 
 
 ## Pugh RMA Ch1
 and some stuff I added because why not
