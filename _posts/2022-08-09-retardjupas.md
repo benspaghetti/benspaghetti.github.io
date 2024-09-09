@@ -5,6 +5,8 @@ date: 2022-08-09
 categories: education
 ---
 
+Update 2024-09-09: If you know me then you know what happened and why this post is kind of ironic.
+
 **CORRECT ME IF THERE IS ANY MISTAKE** \
 **NONE OF THIS IS CONFIRMED, I WILL NOT TAKE RESPONSIBILITY FOR MESSING UP YOUR LIFE**
 
