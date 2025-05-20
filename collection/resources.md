@@ -105,8 +105,6 @@ A list of (not necessarily) lesser-known maths resources, maybe recommended, may
 
 ## Lists / Guides
 
-[Resources - Peasant Maths](/collection/resources.html)
-
 [Algebraic Geometry from High School](https://math.stackexchange.com/questions/285201/path-to-basics-in-algebraic-geometry-from-hs-algebra-and-calculus)
 
 [Highest voted questions on MathOverflow](https://mathoverflow.net/questions?tab=Votes)
